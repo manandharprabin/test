@@ -17,8 +17,7 @@ var sendajax;
     var modal = document.getElementById('age_verification_modal');
     
     /* modalcontent is the content inside Modal PopUp*/
-    var modalContent = document.getElementById('age_verification_modal_content');
-    console.log(modal);
+    var modalContent = document.getElementById('age_verification_modal_content');   
     
   /* Close Button on Modal*/
     var span = document.getElementsByClassName('close')[0];    
